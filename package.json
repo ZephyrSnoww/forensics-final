@@ -1,0 +1,9 @@
+{
+  "name": "forensics-final",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/glacierheavner/forensics-final.git",
+  "author": "Sylas <38060892+glacierheavner@users.noreply.github.com>",
+  "license": "MIT",
+  "private": false
+}
