@@ -17,7 +17,7 @@ Thursday, Dec 16, 2021
 ### General Rubric
 | Points | Task                                                                                                                                            |
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| 10     | **Cover sheet, including** <br> - Name of team <br> - Names of team members <br> - Date and location of crime <br> - Neat and creative design   |
+| 10     | **Cover sheet** <br> - Name of team <br> - Names of team members <br> - Date and location of crime <br> - Neat and creative design   |
 | 5      | **Table of contents** <br> - Typed & in order                                                                                                   |
 | 15     | **Narrative** <br> - Detailed description of crime scene <br> - Correct heading                                                                 |
 | 15     | **Sketch** <br> - Detailed final crime scene sketch <br> - Correct heading                                                                      |
