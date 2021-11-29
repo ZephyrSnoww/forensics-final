@@ -28,3 +28,8 @@ Thursday, Dec 16, 2021
 | 15     | **Witness statements** <br> - Include date, time, witness name, and transcript of questions & answers                                           |
 | 10     | **Conclusion** <br> - Include your top suspect and the evidence that points to them <br> - Include a means, motive, and opportunity             |
 | 125    | (Total points possible)                                                                                                                         | 
+
+## Daily Log
+| Date       | Tasks performed                                                                                 |
+| ---------- | ----------------------------------------------------------------------------------------------- |
+| 29/11/2021 | - Took measurements <br> - Marked evidence <br> - Collected photographs <br> - Began everything | 
