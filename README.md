@@ -32,4 +32,5 @@ Thursday, Dec 16, 2021
 ## Daily Log
 | Date       | Tasks performed                                                                                 |
 | ---------- | ----------------------------------------------------------------------------------------------- |
-| 29/11/2021 | - Took measurements <br> - Marked evidence <br> - Collected photographs <br> - Began everything | 
+| 29/11/2021 | - Took measurements <br> - Marked evidence <br> - Collected photographs <br> - Began everything |
+| 01/12/2021 |                                                                                                 |
