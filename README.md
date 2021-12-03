@@ -7,17 +7,17 @@ Thursday, Dec 16, 2021
 1. Narrative
 2. Sketch and photographs
 3. Evidence
-4. Lab requests & sutopsy report
+4. Lab requests & [[Autopsy Results|autopsy report]]
 5. Search warrants & witness statements
 6. Suspect table
 7. Conclusion
-8. Daily logs
+8. [[README#Daily Log|Daily logs]]
 
 ## Rubric
 ### General Rubric
 | Points | Task                                                                                                                                            |
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| 10     | **Cover sheet** <br> - Name of team <br> - Names of team members <br> - Date and location of crime <br> - Neat and creative design   |
+| 10     | **Cover sheet** <br> - Name of team <br> - Names of team members <br> - Date and location of crime <br> - Neat and creative design              | 
 | 5      | **Table of contents** <br> - Typed & in order                                                                                                   |
 | 15     | **Narrative** <br> - Detailed description of crime scene <br> - Correct heading                                                                 |
 | 15     | **Sketch** <br> - Detailed final crime scene sketch <br> - Correct heading                                                                      |
@@ -27,10 +27,11 @@ Thursday, Dec 16, 2021
 | 10     | **Autopsy report** <br> - Include the actual report and a summary of pertinent details                                                          |
 | 15     | **Witness statements** <br> - Include date, time, witness name, and transcript of questions & answers                                           |
 | 10     | **Conclusion** <br> - Include your top suspect and the evidence that points to them <br> - Include a means, motive, and opportunity             |
-| 125    | (Total points possible)                                                                                                                         | 
+| 125    | (Total points possible)                                                                                                                         |
 
 ## Daily Log
-| Date       | Tasks performed                                                                                 |
-| ---------- | ----------------------------------------------------------------------------------------------- |
-| 29/11/2021 | - Took measurements <br> - Marked evidence <br> - Collected photographs <br> - Began everything |
-| 01/12/2021 |                                                                                                 |
+| Date       | Tasks performed                                                                                                                    |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| 29/11/2021 | - Took measurements <br> - Marked evidence <br> - Collected photographs <br> - Began everything                                    |
+| 01/12/2021 |                                                                                                                                    |
+| 03/12/2021 | - Notes taken <br> - Ms. Macdonalds fingerprints taken <br> - Fingerprint lifted from pipe <br> - Autopsy & police report acquired | 
