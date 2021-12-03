@@ -5,6 +5,7 @@
 - Victim was next to a diactivated chemical hood.
 - Inside the chemical hood were three beakers - one knocked over, spilling chloroform.[^1]
 - Victim was holding a green folder containing notes on the LAHS chemistry teachers.
+- Inside the folder was [[The Note|a note]].
 - Victim was bleeding from a wound on the back of the head.[^2]
 - Foot-height cupboards on the west side of the room were bloody.
 - A finger print was discovered in the bloody cupboards.
