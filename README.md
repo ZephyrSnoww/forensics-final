@@ -30,9 +30,9 @@ Thursday, Dec 16, 2021
 | 125    | (Total points possible)                                                                                                                         |
 
 ## Daily Log
-| Date       | Tasks performed                                                                                                                                                                  |
-| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 29/11/2021 | - Took measurements <br> - Marked evidence <br> - Collected photographs <br> - Began everything                                                                                  |
-| 01/12/2021 |                                                                                                                                                                                  |
-| 03/12/2021 | - Notes taken <br> - Ms. Macdonalds fingerprints taken <br> - Fingerprint lifted from pipe <br> - Autopsy & police report acquired <br> - Note from victim's folder transcriebed |
-| 07/12/2021 |                                                                                                                                                                                  |
+| Date       | Tasks performed                                                                                                                                                                 |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 29/11/2021 | - Took measurements <br> - Marked evidence <br> - Collected photographs <br> - Began everything                                                                                 |
+| 01/12/2021 |                                                                                                                                                                                 |
+| 03/12/2021 | - Notes taken <br> - Ms. Macdonalds fingerprints taken <br> - Fingerprint lifted from pipe <br> - Autopsy & police report acquired <br> - Note from victim's folder transcribed | 
+| 07/12/2021 | - Created website <br> - Took Ms. Clark and Ms. Ombellis fingerprints                                                                                                           |
