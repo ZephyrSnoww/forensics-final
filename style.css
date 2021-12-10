@@ -1,0 +1,109 @@
+body {
+    /* background: rgb(17,17,17); */
+    /* background: linear-gradient(0deg, #111 0%, #333 100%); */
+    padding: 0;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+    transform: perspective(1000px);
+    transform-style: preserve-3d;
+    overflow: hidden;
+}
+
+.folder {
+    background-color: #eca;
+    /* background: linear-gradient(0deg, #a86 0%, #eca 100%); */
+    width: 500px;
+    height: 700px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    transform-style: preserve-3d;
+}
+
+.sheet {
+    background-color: #fff;
+    /* background: linear-gradient(0deg, #aaa 0%, #fff 100%); */
+    width: 450px;
+    height: 650px;
+    position: absolute;
+    transform-origin: center left;
+    transition: 1s ease-out;
+}
+
+#manila-folder {
+    transform: rotateX(25deg) scale(1);
+    transform-style: preserve-3d;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    transition: 1s ease-out;
+}
+
+#left-side {
+    transform: rotateY(180deg) translateZ(-1px);
+    transform-origin: center right;
+    transition: 1s ease-out;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+#right-side {
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    transition: 1s ease-out;
+}
+
+#manila-folder.open #left-side {
+    transform: rotateY(30deg);
+}
+
+#manila-folder.open #right-side {
+    background-color: #eca;
+}
+
+#manila-folder.open {
+    /* transform: rotateX(10deg) rotateY(-12deg) scale(1.1); */
+    transform: rotateX(25deg) rotateY(-12deg) scale(1);
+}
+
+/*
+#manila-folder.open .sheet#sheet1 {
+    transform: rotateY(-90deg);
+}
+
+#manila-folder.open .sheet#sheet2 {
+    transform: rotateY(-60deg);
+}
+
+#manila-folder.open .sheet#sheet3 {
+    transform: rotateY(-30deg);
+}
+
+#manila-folder.open .sheet#sheet4 {
+    transform: rotateY(0deg);
+}
+*/
+#folder-tabs {
+    /* background-color: #eca; */
+    /* width: 50px; */
+    height: 25px;
+    position: absolute;
+    /* right: 0; */
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    /* transform: rotateZ(90deg); */
+    /* width: 100px; */
+}
+
+.tab {
+    background-color: #eca;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    width: 150px;
+}
